@@ -22,7 +22,7 @@
 easybot
 
 ## 4 files 
-- Spy_chat for spy every message.
+- Spy_tchat for spy every message.
 - Spy_room for fin all room id on a server.
 - 100_last for take 100 last message in a room (a message need to be write before in this room).
 - Spy_ID for take Discord Server ID.
