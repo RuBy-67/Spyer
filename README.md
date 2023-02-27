@@ -7,7 +7,7 @@
 
 
 ## Requirements
-- Discord.js v13 or higher (`npm install discord.js@latest`) (Update to V14 in coming)
+- Discord.js v13 or higher (`npm install discord.js`) (Update to V14 in coming)
 - NodeJS v16.6 or higher
 - Basic knowlegde of Discord.js or JavaScript or NodeJS
 
