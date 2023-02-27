@@ -19,7 +19,7 @@ client.on("ready", () => {
 
   // Affiche les identifiants et les noms de tous les serveurs
   guilds.forEach((guild) => {
-    console.log(`Serveur: ${guild.name} (ID : ${guild.id})`);
+    console.log(`Serveur : ${guild.name} (ID : ${guild.id})`);
   });
 });
 client.login(token);
